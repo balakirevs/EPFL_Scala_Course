@@ -1,0 +1,33 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/user/scala_projects/EPFL_Scala_Course/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes/patmat/Huffman$$anonfun$encode$1.class, /home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes/patmat/Huffman$$anonfun$1.class, /home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class, /home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes/patmat/Huffman$$anonfun$quickEncode$1.class, /home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes/patmat/Huffman$$anonfun$2.class, /home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes/patmat/Huffman$$anonfun$times$1.class, /home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class, /home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class)[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/user/scala_projects/EPFL_Scala_Course/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/user/scala_projects/EPFL_Scala_Course/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/user/scala_projects/EPFL_Scala_Course/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6cef19, interfacing (CompilerInterface) with Scala compiler version 2.10.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-i386/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/netx.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/plugin.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/classes:/home/user/.sbt/boot/scala-2.10.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/user/scala_projects/EPFL_Scala_Course/patmat/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 96.009387856 s[0m
+[0m[[0mdebug[0m] [0mStep 2 changed sources and immdediate dependencies:[0m
+[0m[[0mdebug[0m] [0m	Set(/home/user/scala_projects/EPFL_Scala_Course/patmat/src/main/scala/patmat/Huffman.scala)[0m
+[0m[[0mdebug[0m] [0mNon-trivial strongly connected components: [0m
+[0m[[0mdebug[0m] [0m	[0m
+[0m[[0mdebug[0m] [0mStep 2 invalidated sources:[0m
+[0m[[0mdebug[0m] [0m	Set(/home/user/scala_projects/EPFL_Scala_Course/patmat/src/main/scala/patmat/Huffman.scala)[0m
